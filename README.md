@@ -1,4 +1,4 @@
-# The-Sparks-Foundation-Data-SCience-Business-Analytics-Intern
+# The-Sparks-Foundation-Data-Science-Business-Analytics-Intern
 The Sparks Foundation Tasks
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
@@ -19,7 +19,7 @@ What will be predicted score if a student studies for 9.25 hrs/ day?
 
 
 
-# Task-5 : To Explore Business Analytics (Level - Beginner)
+# Task-3 : To Explore Business Analytics (Level - Beginner)
 
 
 Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
